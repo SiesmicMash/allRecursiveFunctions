@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "5b23dd31c46a6bace7283f7d408d434f3fd8ac0f09f751e75bf26c816a534613"
+    }
+  ],
+  "containerPath" : "/Users/usaidsyedali/Desktop/CSCI 225 F/recursivePractice#1/recursivePractice#1.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/usaidsyedali/Desktop/CSCI 225 F/recursivePractice#1/DerivedData/recursivePractice#1/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/usaidsyedali/Desktop/CSCI 225 F/recursivePractice#1/DerivedData/recursivePractice#1/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/usaidsyedali/Desktop/CSCI 225 F/recursivePractice#1/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/usaidsyedali/Desktop/CSCI 225 F/recursivePractice#1/DerivedData/recursivePractice#1/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/usaidsyedali/Desktop/CSCI 225 F/recursivePractice#1/DerivedData/recursivePractice#1/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/usaidsyedali/Desktop/CSCI 225 F/recursivePractice#1/DerivedData/recursivePractice#1/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/usaidsyedali/Desktop/CSCI 225 F/recursivePractice#1/DerivedData/recursivePractice#1/Build/Products",
+      "pchPath" : "/Users/usaidsyedali/Desktop/CSCI 225 F/recursivePractice#1/DerivedData/recursivePractice#1/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

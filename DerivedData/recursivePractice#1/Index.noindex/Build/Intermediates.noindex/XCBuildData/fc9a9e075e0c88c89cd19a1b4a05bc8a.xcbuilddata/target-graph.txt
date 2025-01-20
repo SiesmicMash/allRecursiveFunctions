@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'recursivePractice#1' in project 'recursivePractice#1' (no dependencies)
